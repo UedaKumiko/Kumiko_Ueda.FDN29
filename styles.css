@@ -1,0 +1,51 @@
+body {
+    background-color: lightyellow;
+  }
+
+
+
+.inner {
+    width: 80%;
+    margin: 0 auto;
+    max-width: 500px;
+  }  
+
+h1 a {
+    color: blue ;
+    font-size: 36px;
+}
+
+h2 a {
+    color: blue;
+  }
+
+p a {
+    color: blue;
+  }
+
+
+.event-title, .event-subtitle {
+    margin: 0; 
+    padding: 0; 
+  }
+
+.event-title {
+    color: red; 
+    font-size: 24px; 
+    font-weight: bold; 
+    line-height: 1.4px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+
+  .event-subtitle {
+    font-size: 18px; 
+    font-weight: bold;
+    line-height: 1.4;
+  }
+
+  .between-line {
+    line-height: 0.5; 
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
